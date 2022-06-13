@@ -13,6 +13,7 @@ function multiply(a, b){
 ``` 
 ## *Skills:*
 * HTML
+* Git
 ## *Education:*
 * St. Petersburg State University of Film and Television 
   * Banchelor in Electronic and Nanoelectronic Technology 2019
